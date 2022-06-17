@@ -1,0 +1,73 @@
+.heading{
+	margin-left: 550px;
+	font-size: 20px;
+}
+.image1 {
+    margin-top: -30px;
+    margin-left: 80px;
+
+}
+.image2 {
+    margin-top: -400px;
+    margin-left: 380px;
+}
+.image3 {
+	margin-top: -400px;
+    margin-left: 650px;
+}
+.image4 {
+	margin-top: -400px;
+    margin-left: 930px;
+}
+.kids {
+	font-size: 25px;
+	border-style: 5px solid green;
+	background-color: red;
+}
+.button{
+    width: auto;
+    background-color: #3384ff;
+    padding: 15px 100px;
+    margin: -10px 168px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.logoimage{
+	margin-left: 184px;
+    margin-top: 51px;
+}
+.our{
+	margin: 75px 514px;
+    font-size: 25px;
+
+}
+.para{
+	font-size: 20px;
+    margin: -30px 315px 0px;
+}
+
+.para2{
+	font-size: 20px;
+    margin: -30px 315px 0px;
+}
+.our2{
+	margin: 180px 429px;
+    font-size: 25px;
+}
+.row{
+    margin-left: 67px;
+    margin-top: -100px;
+}
+.nine{
+	margin: 75px 520px;
+    font-size: 25px;
+}
+.gol{
+     margin: -125px;
+    margin-top: 10px;
+}
+
+
+
+
